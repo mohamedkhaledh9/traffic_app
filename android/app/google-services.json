@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389299970927",
+    "firebase_url": "https://traffic-6367e.firebaseio.com",
+    "project_id": "traffic-6367e",
+    "storage_bucket": "traffic-6367e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389299970927:android:8e436974a80b9d29fa7e9a",
+        "android_client_info": {
+          "package_name": "mohamed.traffic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389299970927-38rt7ptuggeb4guip7kao7g90cvkt64t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBea-IbML9zG9wXkHUCb3ZXgSY8apHXoEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389299970927-38rt7ptuggeb4guip7kao7g90cvkt64t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
